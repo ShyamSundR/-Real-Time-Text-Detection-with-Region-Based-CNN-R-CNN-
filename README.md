@@ -1,4 +1,3 @@
-# -Real-Time-Text-Detection-with-Region-Based-CNN-R-CNN-
 # Real-Time Text Detection with Region-Based CNN (R-CNN)
 
 This project implements a real-time text detection system using a fine-tuned Faster R-CNN model on the MS COCO-Text dataset. The goal is to accurately localize text regions in natural scene images by learning robust object detection features.
